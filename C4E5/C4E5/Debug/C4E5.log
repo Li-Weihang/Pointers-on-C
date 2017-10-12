@@ -1,0 +1,4 @@
+﻿  C4E5.cpp
+g:\saviour\documents\code\pointers-on-c\c4e5\c4e5\c4e5.cpp(8): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  g:\saviour\documents\code\pointers-on-c\c4e5\c4e5\c4e5.cpp(8): note: 命令行参数: 参见前面的“_CRT_SECURE_NO_WARNINGS”定义
+  C4E5.vcxproj -> G:\Saviour\Documents\code\Pointers-on-C\C4E5\Debug\C4E5.exe
