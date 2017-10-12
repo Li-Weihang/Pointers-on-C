@@ -1,0 +1,13 @@
+﻿  C3Q.cpp
+d:\我的文档\code\pointers on c\c3q\c3q\c3q.cpp(13): warning C4101: “d”: 未引用的局部变量
+d:\我的文档\code\pointers on c\c3q\c3q\c3q.cpp(15): warning C4101: “e”: 未引用的局部变量
+d:\我的文档\code\pointers on c\c3q\c3q\c3q.cpp(15): warning C4101: “w”: 未引用的局部变量
+d:\我的文档\code\pointers on c\c3q\c3q\c3q.cpp(15): warning C4101: “d”: 未引用的局部变量
+d:\我的文档\code\pointers on c\c3q\c3q\c3q.cpp(17): warning C4101: “b”: 未引用的局部变量
+d:\我的文档\code\pointers on c\c3q\c3q\c3q.cpp(17): warning C4101: “c”: 未引用的局部变量
+d:\我的文档\code\pointers on c\c3q\c3q\c3q.cpp(17): warning C4101: “d”: 未引用的局部变量
+d:\我的文档\code\pointers on c\c3q\c3q\c3q.cpp(22): warning C4101: “a”: 未引用的局部变量
+d:\我的文档\code\pointers on c\c3q\c3q\c3q.cpp(22): warning C4101: “x”: 未引用的局部变量
+d:\我的文档\code\pointers on c\c3q\c3q\c3q.cpp(22): warning C4101: “d”: 未引用的局部变量
+  C3Q.vcxproj -> d:\我的文档\code\Pointers on C\C3Q\Debug\C3Q.exe
+  C3Q.vcxproj -> d:\我的文档\code\Pointers on C\C3Q\Debug\C3Q.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  C1E4.cpp
+d:\我的文档\code\pointers on c\c1e4\c1e4\c1e4.cpp(18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+  C1E4.vcxproj -> d:\我的文档\code\Pointers on C\C1E4\Debug\C1E4.exe
+  C1E4.vcxproj -> d:\我的文档\code\Pointers on C\C1E4\Debug\C1E4.pdb (Partial PDB)
