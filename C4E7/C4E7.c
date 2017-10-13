@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+//this is a github test
 void deblank(char string[]){
 	bool space_flag = false;
 	char replace[100];
