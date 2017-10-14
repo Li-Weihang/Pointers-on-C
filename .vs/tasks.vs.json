@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "任务-C4E7",
+      "appliesTo": "C4E7/C4E7.sln",
+      "type": "launch"
+    }
+  ]
+}
