@@ -1,0 +1,3 @@
+D:/Document/code/Pointers-on-C/C6E4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Document/code/Pointers-on-C/C6E4/cmake-build-debug/CMakeFiles/C6E4.dir
+D:/Document/code/Pointers-on-C/C6E4/cmake-build-debug/CMakeFiles/edit_cache.dir
