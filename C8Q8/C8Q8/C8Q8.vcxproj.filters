@@ -29,5 +29,8 @@
     <ClCompile Include="C8Q8.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
